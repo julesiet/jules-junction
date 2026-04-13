@@ -2,7 +2,7 @@
   "name": "jules-junction",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://julesiet.github.io/home",
+  "homepage": "https://julesiet.github.io/jules-junction",
   "type": "module",
   "scripts": {
     "dev": "vite",
